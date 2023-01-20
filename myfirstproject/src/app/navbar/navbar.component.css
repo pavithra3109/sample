@@ -1,0 +1,38 @@
+.navbar-nav{
+  position:sticky;
+  font-size:  18px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  top:30px;
+ 
+  margin: auto;
+
+
+  display: flex;
+  justify-content: space-between;
+  
+}
+.logo{
+  position: relative;
+  top: -5px;
+  left: -250px;
+}
+.nav-item a{
+  
+  color: #080a07;
+  
+  
+
+}
+.nav-item1{
+  position: fixed;
+  right: 500px;
+}
+.nav-item2{
+  position: fixed;
+  left: 500px;
+}
+.delivery{
+  position: relative;
+  top: -5px;
+  right: -250px;
+}

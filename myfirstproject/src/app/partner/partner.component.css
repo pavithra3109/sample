@@ -1,0 +1,44 @@
+.heading{
+    position: fixed;
+    color: rgba(87, 3, 3, 0.856);
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800;
+    
+    left: 600px;
+    top: 100px;
+
+}
+.p1-image{
+    position: fixed;
+    top: 180px;
+    left: 210px;
+}
+.p2-image{
+    position: fixed;
+    top: 180px;
+    left: 570px;
+}
+.p3-image{
+    position: fixed;
+    top: 180px;
+    left: 930px;
+}
+.emcolor{
+    position: fixed;
+    top:368px;
+    height:360px;
+    width: 1530px;
+    text-align: center;
+    font-size: 50px;
+    padding-right: 920px;
+    padding-top: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+.text{
+    position: fixed;
+    top: 480px;
+    font-size: 20px;
+    left: 215px;
+    color: rgba(0, 0, 0, 0.986);
+    font-family: quicksand,sans-serif;;
+}

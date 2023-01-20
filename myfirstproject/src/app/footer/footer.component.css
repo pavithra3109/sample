@@ -1,0 +1,10 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(73, 3, 3, 0.658);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: white;
+}

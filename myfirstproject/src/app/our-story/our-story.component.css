@@ -1,0 +1,43 @@
+.bg-image{
+    position: fixed;
+    right: 00px;
+    top: 140px;
+}
+.bg-image1{
+    position: fixed;
+    left: 0px;
+    top:140px;
+}
+.bg-image2{
+    position: fixed;
+    top: 100px;
+    left: 425px;
+    height: 625px;
+    width: 680px;
+}
+.bg-image3{
+    position: fixed;
+    top: 170px;
+    right:500px;
+   
+}
+.title{
+    position: fixed;
+    top: 110px;
+    right: 670px;
+    font-family: 'Satisfy', cursive;
+    
+    font-size: 50px;
+    color: rgb(48, 2, 2);
+}
+.para{
+    position: fixed;
+    top:250px;
+    font-size: 17px;
+    line-height: 1.5em;
+    text-align: center;
+    width: 350px;
+    right:590px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
